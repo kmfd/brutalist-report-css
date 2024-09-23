@@ -44,11 +44,11 @@ It's notable that some of the css involved here was only adopted by browsers mor
 3. Scroll to the bottom of the page where our controls have been added
 4. Sort the list on the left, and move unwanted sources to the second list.
 - The css is generated from the list on the left.
-- The Select all moves all sources to the left list, and the Deselect all button moves all sources to the right list.
+- The `Select all` button moves all sources to the left list, and the `Deselect all` button moves all sources to the right list.
 - You can move sources around on the list, or between lists by dragging and dropping them. You can also move an item to the other list just by clicking it.
 5. Generate, apply, and save your custom css
-- The Generate button will create a code block at the bottom of the page with the css, and a new button to copy it to clipboard.
-- The Apply button will apply the current list to the page immediately so you can see how your filtered and sorted page will look.
+- The `Generate` button will create a code block at the bottom of the page with the css, and a new button to copy it to clipboard.
+- The `Apply` button will apply the current list to the page immediately so you can see how your filtered and sorted page will look.
 
 # License
 This project uses GPL3 license, see license file
