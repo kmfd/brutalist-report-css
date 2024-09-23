@@ -8,7 +8,7 @@ This adds a menu to the page for sorting and filtering the displayed news source
 # Why did we make this
 [https://brutalist.report](https://brutalist.report) is a nice site. The creators describe it as "A rolling snapshot of the day's headlines presented in a fast and simple yet information dense view" and also as "The day's headlines delivered to you without bullshit." What a great vision!
 
-The thing is, though, not everybody wants to see every single article from every single one of the 57 or so sources listed there. Maybe you don't care for politics, or maybe you don't care for sports, or maybe you care about technology but not the tech industry. Maybe you think a source is not trusted enough, or maybe the source is actually mostly just product advertisements. Maybe you just want a custom selecton because you only need one or two sources from each category.
+The thing is, though, not everybody wants to see every single one of the 57 or so sources listed there. Maybe you don't care for politics, or maybe you don't care for sports, or maybe you care about technology but not the tech industry. Maybe you think a source is not trusted enough, or maybe the source is actually mostly just product advertisements. Maybe you just want a custom selecton because you only need one or two sources from each category.
 
 When you add all that up, it's actually quite a lot of bullshit still, probably. It would be great if we could have our day's headlines without all that!
 
